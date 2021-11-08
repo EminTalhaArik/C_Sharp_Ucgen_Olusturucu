@@ -1,0 +1,10 @@
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\bin\Debug\UcgenOlusturucu.exe.config
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\bin\Debug\UcgenOlusturucu.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\bin\Debug\UcgenOlusturucu.pdb
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\obj\Debug\UcgenOlusturucu.csprojAssemblyReference.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\obj\Debug\UcgenOlusturucu.frm_yildizOlusturucu.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\obj\Debug\UcgenOlusturucu.Properties.Resources.resources
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\obj\Debug\UcgenOlusturucu.csproj.GenerateResource.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\obj\Debug\UcgenOlusturucu.csproj.CoreCompileInputs.cache
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\obj\Debug\UcgenOlusturucu.exe
+D:\Belgeler\Projeler\Yazilim_Projeleri\UcgenOlusturucu\UcgenOlusturucu\obj\Debug\UcgenOlusturucu.pdb
